@@ -1,0 +1,16 @@
+Title: [Name of the Dish]
+Prep time: [Minutes] | Cook time: [Minutes]
+
+Ingredients:
+
+[Amount] [Measurement] [Primary Ingredient] (e.g., 1 cup flour)
+
+[Amount] [Measurement] [Secondary Ingredient] (e.g., 2 tbsp sugar)
+
+Instructions:
+
+[Preparation action]: Combine the [Primary Ingredient] and [Secondary Ingredient] in a large bowl.
+
+[Cooking action]: Cook at [Temperature/Heat level] for [Time] until [Visual cue, e.g., golden brown].
+
+[Finishing action]: Let cool for [Time] before serving.
