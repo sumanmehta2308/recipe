@@ -1,0 +1,2 @@
+write your content, and click the green Commit changes... button at the top right. Ensure the option "Commit directly to the [new-branch-name] branch" is selected, and click Commit changes.
+Verification: You will return to the file list, and your new file will be visible while you are on this new branch.
